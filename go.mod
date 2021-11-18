@@ -1,4 +1,4 @@
-module vps.onchi.me/typer
+module github.com/cgxeiji/typer
 
 go 1.17
 
